@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{027AD34C-E12D-47E7-A7E5-758DC29D1CC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelOpenPasswordGenerator", "..\..\..\FunProjects\Excel\ExcelOpenPasswordGenerator\ExcelOpenPasswordGenerator.csproj", "{59045BA5-1134-4B7D-8D01-527DE69742A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{027AD34C-E12D-47E7-A7E5-758DC29D1CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027AD34C-E12D-47E7-A7E5-758DC29D1CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027AD34C-E12D-47E7-A7E5-758DC29D1CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59045BA5-1134-4B7D-8D01-527DE69742A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59045BA5-1134-4B7D-8D01-527DE69742A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59045BA5-1134-4B7D-8D01-527DE69742A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59045BA5-1134-4B7D-8D01-527DE69742A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
