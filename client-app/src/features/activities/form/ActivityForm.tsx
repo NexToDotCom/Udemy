@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Button, Header, Segment } from 'semantic-ui-react';
 import { Activity } from '../../../app/models/activity';
-import { useStore } from '../../../stores/store';
+import { useStore } from '../../../app/stores/store';
 import { observer } from 'mobx-react-lite';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import LoadingComponent from '../../../app/layout/LoadingComponent';
